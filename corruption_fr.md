@@ -19,5 +19,41 @@ Ou bien par la barre de progression de la corruption qui apparait seulement si v
 > Info à savoir, la progression se met à jour rapidement mais n'est pas instantanée.
 
 
-### Plus de détails :
+### Comment accèder au Cyral Corrompu ?
+
+![Image](https://i.imgur.com/cXeuSdu.png)
+
+La barre est composé de plusieurs paliers chaque paliers correspond a un nombre de piliers a detruire.
+
+
+### Comment faire progresser la barre ?
+
+Au moment où l'evenement de corruption est rendu disponible. Les monstres de la zone gagnent un buff.
+![Image](https://i.imgur.com/jK1XWZd.png)
+
+Toutes les entités actuellement même les elements à collecter ( A verifier si les collectables font avancer la barre ? )
+Après analyse, il à été prouvé que les monstres les plus haut niveau donnant le plus d'experience apportent plus de progression à la barre de l'evenement.
+
+Ces 2 monstres sont ceux qui en donnent le plus avec les murumuru éthérés.
+
+![Image](https://i.imgur.com/GxQ5q88.png)
+
+
+### Comment détruire les épines de corruption et battre le Cyral de Corruption ?
+
+Les epines de corruptions sont comme **les coffres de KQ Sorah**. C'est à dire qu'ils sont uniquement **vulnérable au auto-attaques**. **Les effets durable des AOE de mages** et etrangement, **les sorts d'ames des Lunatique et Assassin**. Il n'est donc pas necessaire de spammer vos sorts sur les epines.
+
+Cependant le **Cyral Corrompu** est comme un monstre normal. Vous pouvez donc vous faire plaisir et lâcher vos meilleures rotations.
+
+A noter qu'actuellement le Cyral fait aussi apparaitre un nombre de monstres proportionnel au nombres de joueurs present lors du combat. Donc + il y'a des joueurs + c'est difficile. Bien qu'on retire + de dommages mais il y'a foule de monstres et cela devient très rapidement un cauchemar.
+
+
+### Comment completer la quête journalière "Endiger la corruption" et la quête hebdomadaire "Convertisseur de gemmes"
+
+Actuellement, pour completer la quête **Endiger la corruption** il vous faut le **last-hit** ( C'est à dire mettre le dernier coup au boss ! )
+L'équipe de developpeur du jeu ont commencés a travailler sur un aspect plus communautaire. Cela devrait changer sous-peu.
+
+
+N'hesiter pas à me notifier sur Discord **Spx#0001**
+Si des éléments sont manquant concernant l'evenement Corruption
 
