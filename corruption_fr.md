@@ -29,6 +29,7 @@ La barre est composé de plusieurs paliers chaque paliers correspond a un nombre
 ### Comment faire progresser la barre ?
 
 Au moment où l'evenement de corruption est rendu disponible. Les monstres de la zone gagnent un buff.
+
 ![Image](https://i.imgur.com/jK1XWZd.png)
 
 Toutes les entités actuellement même les elements à collecter ( A verifier si les collectables font avancer la barre ? )
