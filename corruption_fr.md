@@ -58,3 +58,5 @@ L'équipe de developpeur du jeu ont commencé à travailler sur un aspect plus c
 N'hesiter pas à me notifier sur Discord **Spx#0001**
 Si des éléments sont manquant concernant l'evenement Corruption
 
+Merci à tout ceux qui m'ont aidé obtenir les infos ( Bubu, Vovo, Kola, Tulie )
+
