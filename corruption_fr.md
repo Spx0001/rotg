@@ -51,8 +51,11 @@ A noter qu'actuellement le Cyral fait aussi apparaitre un nombre de monstres pro
 
 ### Comment completer la quête journalière "Endiger la corruption" et la quête hebdomadaire "Convertisseur de gemmes"
 
-Actuellement, pour completer la quête **Endiger la corruption** il vous faut le **last-hit** ( C'est à dire mettre le dernier coup au boss ! )
-L'équipe de developpeur du jeu ont commencé à travailler sur un aspect plus communautaire. Cela devrait changer sous-peu. ( On espère que cela arrive très tôt )
+Pour completer **Les quêtes Journalière et Reproductible de l'évènement** il vous faudra un **Corrupted Remnants** qui s'obtient en apportant une contribution minime au kill du **Cyral**
+
+**La quête hebdomadaire "Convertisseur de gemmes" ** avance dès qu'une journalière est validé !
+
+
 
 
 N'hesiter pas à me notifier sur Discord **Spx#0001**
